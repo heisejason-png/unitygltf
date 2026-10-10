@@ -557,4 +557,4 @@ To run tests with UnityGLTF as package, you'll have to add UnityGLTF to the "tes
 
 </details>
 Created by Jason Heise
-https://next.frame.io
+Owned by Jason Heise heisejason-png Giters
